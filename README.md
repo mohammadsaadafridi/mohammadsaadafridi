@@ -46,7 +46,7 @@
 <img align="left" alt="mohammadsaadafridi Github Stats" src="https://github-readme-stats.vercel.app/api?username=mohammadsaadafridi&show_icons=true&hide_border=true" />
 
 [website]: https://msaadafridi.000webhostapp.com
-.[website address]: https://msaadafridi.000webhostapp.com
+[website address]: https://msaadafridi.000webhostapp.com
 [twitter]: https://twitter.com
 [youtube]: https://youtube.com
 [instagram]: https://www.instagram.com/msaadafridi
